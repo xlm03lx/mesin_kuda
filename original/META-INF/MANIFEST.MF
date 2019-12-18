@@ -1,0 +1,440 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: lxJjg7PaM1ikEMQ8EtS6Hd4j7NE=
+
+Name: assets/ccbResources/fonts/BitMicro01.ttf
+SHA1-Digest: ZfiHgIa5CpNcco+MWjerfqxFK98=
+
+Name: assets/ccbResources/fonts/race_blue.fnt
+SHA1-Digest: IczNYLo8al3T7QEmpmmx2RcdogU=
+
+Name: assets/ccbResources/fonts/race_blue_0.png
+SHA1-Digest: iAzFF+d8hCHsN9b9DdNrNXrRGWE=
+
+Name: assets/ccbResources/fonts/race_red.fnt
+SHA1-Digest: hhHQzDdwjtRt76l+zTr6Sxbzqfw=
+
+Name: assets/ccbResources/fonts/race_red_0.png
+SHA1-Digest: 0uk2E6Rikperu85y9tyOg8AVT3g=
+
+Name: assets/ccbResources/fonts/race_yellow.fnt
+SHA1-Digest: qkctFKi0J5UdBWNG7TArU0i8WqE=
+
+Name: assets/ccbResources/fonts/race_yellow_0.png
+SHA1-Digest: bjkPmcr7w/bemHhfmSOp/xx+WJk=
+
+Name: assets/ccbResources/ui/1.png
+SHA1-Digest: HR7ITrl8+Hg3WHGfrfTxSMLu1Dc=
+
+Name: assets/ccbResources/ui/10.png
+SHA1-Digest: j5JaGqHefSzoleXSgPpzF/l75U4=
+
+Name: assets/ccbResources/ui/100.png
+SHA1-Digest: J68jkCtEqGR3CL3zcTtZ9walKEA=
+
+Name: assets/ccbResources/ui/1000.png
+SHA1-Digest: gc6ley4/WB+tAWo16YvUUWg0HpQ=
+
+Name: assets/ccbResources/ui/adjust_score01.png
+SHA1-Digest: do6fZcc2ryiPpyKcy8lx/Ey6tg4=
+
+Name: assets/ccbResources/ui/adjust_score02.png
+SHA1-Digest: 1nhEwKfdrAnoFPGSM6EK4gtr9pc=
+
+Name: assets/ccbResources/ui/back01.png
+SHA1-Digest: IJK0+5vJndHoTxal1v6x9lGY9hE=
+
+Name: assets/ccbResources/ui/back02.png
+SHA1-Digest: uavn6WeKLXkHXQz5YkIusv73sZk=
+
+Name: assets/ccbResources/ui/back_to_lobby01.png
+SHA1-Digest: hEKSpubbSvg4qDFmmaKaiOvHhQ8=
+
+Name: assets/ccbResources/ui/back_to_lobby02.png
+SHA1-Digest: VPX9dr2E7k8rNpj4bLTVlRk7FQ8=
+
+Name: assets/ccbResources/ui/background.png
+SHA1-Digest: eLtUKndBGD/jao6MIrPD8HNlXTI=
+
+Name: assets/ccbResources/ui/base_1.png
+SHA1-Digest: X5aVTzdkbRddpAFAXlp3R21s0g8=
+
+Name: assets/ccbResources/ui/base_16.png
+SHA1-Digest: mSQbgYVbmnnaYAQBFFojk4WP5uM=
+
+Name: assets/ccbResources/ui/base_16_bright.png
+SHA1-Digest: mSQbgYVbmnnaYAQBFFojk4WP5uM=
+
+Name: assets/ccbResources/ui/base_1_bright.png
+SHA1-Digest: X5aVTzdkbRddpAFAXlp3R21s0g8=
+
+Name: assets/ccbResources/ui/base_2.png
+SHA1-Digest: /7Xk+Xww7jyNam3Ks/sx7GGQbbI=
+
+Name: assets/ccbResources/ui/base_2_bright.png
+SHA1-Digest: /7Xk+Xww7jyNam3Ks/sx7GGQbbI=
+
+Name: assets/ccbResources/ui/base_32.png
+SHA1-Digest: FarnZDYYt0Vj/iRQ2ndAJPhhczU=
+
+Name: assets/ccbResources/ui/base_32_bright.png
+SHA1-Digest: FarnZDYYt0Vj/iRQ2ndAJPhhczU=
+
+Name: assets/ccbResources/ui/base_4.png
+SHA1-Digest: yU/PO2oGosnwxelwEikU5xGbVrw=
+
+Name: assets/ccbResources/ui/base_4_bright.png
+SHA1-Digest: yU/PO2oGosnwxelwEikU5xGbVrw=
+
+Name: assets/ccbResources/ui/base_8.png
+SHA1-Digest: y2TwRRYX5PzFhbF8niHslZNIE+c=
+
+Name: assets/ccbResources/ui/base_8_bright.png
+SHA1-Digest: y2TwRRYX5PzFhbF8niHslZNIE+c=
+
+Name: assets/ccbResources/ui/bet.png
+SHA1-Digest: BDxxGjGc+TQtTEkdD3k4X13u0UY=
+
+Name: assets/ccbResources/ui/black_background.png
+SHA1-Digest: a2TCCSaC1yCKi8fREq8Vh74G1H0=
+
+Name: assets/ccbResources/ui/buy_coin_01.png
+SHA1-Digest: SZ8KwZ2WioxZx7IpW/GtM4xvtcU=
+
+Name: assets/ccbResources/ui/buy_coin_02.png
+SHA1-Digest: IWm5bYEu5Eae1kRz/JldqgpdJF0=
+
+Name: assets/ccbResources/ui/check_rank_01.png
+SHA1-Digest: tleqnF+qAUxTS0A7Ezi/psG6mCw=
+
+Name: assets/ccbResources/ui/check_rank_02.png
+SHA1-Digest: J81WwW1Fr5nsmFdahQ8QTKWF+58=
+
+Name: assets/ccbResources/ui/clickme.png
+SHA1-Digest: XDwBBoZniChYe5GppZ32bkKzE60=
+
+Name: assets/ccbResources/ui/close01.png
+SHA1-Digest: Hd0VKxfCrBME4+7/NsQEYruArbg=
+
+Name: assets/ccbResources/ui/close02.png
+SHA1-Digest: iMGK/I16Z9ZnwZVe2gxFA/xspTw=
+
+Name: assets/ccbResources/ui/close_effect.png
+SHA1-Digest: x2YjhKYrR+Lk6WVWgtTOTFNZgok=
+
+Name: assets/ccbResources/ui/close_music.png
+SHA1-Digest: mjQmAmqTqmApG2cwrvkpwfwbKuc=
+
+Name: assets/ccbResources/ui/coin.png
+SHA1-Digest: rEnkgOtzjyp2hwjGdokZVkUdcKc=
+
+Name: assets/ccbResources/ui/common_bar.png
+SHA1-Digest: 3rKsR2gEEP/rgrUIkOk+jcyk9Ts=
+
+Name: assets/ccbResources/ui/common_frame.png
+SHA1-Digest: gGK7OxoJDFfhNluwiFzuBkSbASI=
+
+Name: assets/ccbResources/ui/confirm_01.png
+SHA1-Digest: YCxhXPXTQHH3LECp9MkVy6M33bs=
+
+Name: assets/ccbResources/ui/confirm_02.png
+SHA1-Digest: Ck6E4g/3PCXQQcVhbPEF5TZQ44Q=
+
+Name: assets/ccbResources/ui/d.png
+SHA1-Digest: hP95UzOZ9EOu7YCbb2auTbdboSo=
+
+Name: assets/ccbResources/ui/fast_in_01.png
+SHA1-Digest: 3fmpCP4hVfF8zM4o4vsjVMhHFvM=
+
+Name: assets/ccbResources/ui/fast_in_02.png
+SHA1-Digest: 2aG27V+aARitX7Dsyg2aeY3V0mU=
+
+Name: assets/ccbResources/ui/frame.png
+SHA1-Digest: dSnfGhuHVQsSSsn5pVPaqu7VUYo=
+
+Name: assets/ccbResources/ui/help_01.png
+SHA1-Digest: J2Kfhe3RGzoe6QL01ZszrOyJOhM=
+
+Name: assets/ccbResources/ui/help_02.png
+SHA1-Digest: v/rE40oJFH9ioWzMxR0onSTJvhA=
+
+Name: assets/ccbResources/ui/help_label.png
+SHA1-Digest: Jf7j1/5HkFLepx4iwtPn8I3Go1I=
+
+Name: assets/ccbResources/ui/help_tip_1.png
+SHA1-Digest: nayXYy9Mk+2ly/LCpepIFE7fRDQ=
+
+Name: assets/ccbResources/ui/help_tip_2.png
+SHA1-Digest: hO9GeUzipF7CPA1IwC6G7d67d3E=
+
+Name: assets/ccbResources/ui/help_tip_3.png
+SHA1-Digest: EUlC/LzNiH9d/3UfyR7ujeq59Y8=
+
+Name: assets/ccbResources/ui/help_tip_4.png
+SHA1-Digest: gnxhmwYsOqbpxt8OVIPMRsSk0YI=
+
+Name: assets/ccbResources/ui/last5r.png
+SHA1-Digest: TBl0paso2Nh/T/r4dyZCXX3JXxo=
+
+Name: assets/ccbResources/ui/lastodds.png
+SHA1-Digest: TCD2pDwfdHnbfuwyxJxfIE6tA4Q=
+
+Name: assets/ccbResources/ui/level_white.png
+SHA1-Digest: vn8qIWxLd5K8EbOg6dv01gPlEdI=
+
+Name: assets/ccbResources/ui/level_white1.png
+SHA1-Digest: MxcqyBxfp1BC+5sSA26UAIJEJAs=
+
+Name: assets/ccbResources/ui/logo.jpg
+SHA1-Digest: 23DjtuJj5QBcrfHnGQH7tcgb1pI=
+
+Name: assets/ccbResources/ui/modify_nickname.png
+SHA1-Digest: JeS3jQXken4BqnKCA6ckmMtrqP0=
+
+Name: assets/ccbResources/ui/music_01.png
+SHA1-Digest: XLdFoHs4ZalevEV3icZTnYu8L4Y=
+
+Name: assets/ccbResources/ui/music_02.png
+SHA1-Digest: 6HdJLUgS1NSuz5CzwUen/ipzZZ0=
+
+Name: assets/ccbResources/ui/my_rank.png
+SHA1-Digest: X5ciLWO24k1iPtLNqc738W5/AM0=
+
+Name: assets/ccbResources/ui/my_score.png
+SHA1-Digest: H5HY5m/x6usqi7nSZMty3UIJPBs=
+
+Name: assets/ccbResources/ui/nickname.png
+SHA1-Digest: 0gF2/aZ9c6Ihd1v+2jwWIowtF80=
+
+Name: assets/ccbResources/ui/no_01.png
+SHA1-Digest: fgzzj/mC0s+MgWMsJmxhco/LLdQ=
+
+Name: assets/ccbResources/ui/no_02.png
+SHA1-Digest: OwAdXT1CJJhhyNFAG+TvifGfSmE=
+
+Name: assets/ccbResources/ui/odds.png
+SHA1-Digest: KpFqNWX0jQILRx9kXiEX4K8QE38=
+
+Name: assets/ccbResources/ui/open_effect.png
+SHA1-Digest: 1wM+Zv7wnfavvV99ay0za1H1inY=
+
+Name: assets/ccbResources/ui/open_music.png
+SHA1-Digest: IkZZgSLXrL3PMYz1r5Fx0T9tLlE=
+
+Name: assets/ccbResources/ui/outline.png
+SHA1-Digest: L3cooZejKC+Hyd0xMN48rTqrvhI=
+
+Name: assets/ccbResources/ui/password.png
+SHA1-Digest: i/OHtiruR7hjmvqqGhGVmkMAhpI=
+
+Name: assets/ccbResources/ui/phone_number.png
+SHA1-Digest: uP/Oi6vSH9phAc8BD+VWXllXBhQ=
+
+Name: assets/ccbResources/ui/portrait01.png
+SHA1-Digest: yBvakj2VYiRGqdOkhanM2MeHztQ=
+
+Name: assets/ccbResources/ui/rank.png
+SHA1-Digest: ATAiPN6yRg/1dG4japCW2QyT+Ao=
+
+Name: assets/ccbResources/ui/rank_list.png
+SHA1-Digest: q1u5o53nTq2l8tDQ93MK367Qi5s=
+
+Name: assets/ccbResources/ui/score.png
+SHA1-Digest: Gc/uCV07/awj9MUIEeGY5tMeYDo=
+
+Name: assets/ccbResources/ui/score_white.png
+SHA1-Digest: nLq14IFewMKeXVRSg8K65zV3myU=
+
+Name: assets/ccbResources/ui/score_white1.png
+SHA1-Digest: eOAvuTodif4FMgDbry9Up2OkhuU=
+
+Name: assets/ccbResources/ui/setting.png
+SHA1-Digest: td9fS2GWqyC9Hs01xTk3u+B5Xwo=
+
+Name: assets/ccbResources/ui/shop01.png
+SHA1-Digest: 3KcMSXw8pfTFo22mV3NE2z/Q3WQ=
+
+Name: assets/ccbResources/ui/shop02.png
+SHA1-Digest: Goa6zpMAtvtRrbI8s1+WBBlY2Qc=
+
+Name: assets/ccbResources/ui/single_game_01.png
+SHA1-Digest: mHR5NTxWloFtiaHR2xD6V3od3nI=
+
+Name: assets/ccbResources/ui/small_black_frame.png
+SHA1-Digest: fu1e6eqcJufNwGpUjfDXEfOt3DA=
+
+Name: assets/ccbResources/ui/small_black_frame_bright.png
+SHA1-Digest: Pm169f0dyZUBMuQjS0gA7xXMXEc=
+
+Name: assets/ccbResources/ui/small_black_rame.png
+SHA1-Digest: Pm169f0dyZUBMuQjS0gA7xXMXEc=
+
+Name: assets/ccbResources/ui/sound_effect_01.png
+SHA1-Digest: VTIRoLKp2tLj+pa4t6bJqcCXSR4=
+
+Name: assets/ccbResources/ui/sound_effect_02.png
+SHA1-Digest: ZtfX/wip9zzMPuI6vM6UDM+Iw0s=
+
+Name: assets/ccbResources/ui/start01.png
+SHA1-Digest: juUbFplFZW4of3RnuzCXviSmCO8=
+
+Name: assets/ccbResources/ui/start02.png
+SHA1-Digest: 1bbOsQomiytb+4P25xaGURt+PcI=
+
+Name: assets/ccbResources/ui/start_game_01.png
+SHA1-Digest: Kcgpzv96L34rQUtgo9hzhCoQNZ0=
+
+Name: assets/ccbResources/ui/start_game_02.png
+SHA1-Digest: GIv6zbtuYTaZapgfY/tDDXyiwaQ=
+
+Name: assets/ccbResources/ui/store.png
+SHA1-Digest: tPLWujAoNjCUb6ScQKMUxXNooYQ=
+
+Name: assets/ccbResources/ui/system01.png
+SHA1-Digest: j0rpEB4R+wYQaWZ3D8N5aSb17Yg=
+
+Name: assets/ccbResources/ui/system02.png
+SHA1-Digest: rZKCixBUZrKXPEb3Yz0iV0GX0zA=
+
+Name: assets/ccbResources/ui/time_frame.png
+SHA1-Digest: O5db3CrGTbmAacQDQ+QGYkNeZbU=
+
+Name: assets/ccbResources/ui/tips_frame.png
+SHA1-Digest: maAfnFg27GK7HUV4qDBqI0KQCKY=
+
+Name: assets/ccbResources/ui/title.png
+SHA1-Digest: yJHS7Yec3rKBHafhwskvDQAMsf4=
+
+Name: assets/ccbResources/ui/under_line.png
+SHA1-Digest: mLE8qpnqvwHrOJMbewENCpsPr2w=
+
+Name: assets/ccbResources/ui/won.png
+SHA1-Digest: MAN9mZsbV/dqfTZhHvGV2dVPVBI=
+
+Name: assets/ccbResources/ui/yes_01.png
+SHA1-Digest: wF25GImcHdQ4/3H0ytFlf4kPeGs=
+
+Name: assets/ccbResources/ui/yes_02.png
+SHA1-Digest: +d43D53opqCd6xaT4DVZlCizmQE=
+
+Name: assets/ccbi/BetScene.ccbi
+SHA1-Digest: uZNjCYx9uE3rsAV0JjJexH1oUXA=
+
+Name: assets/ccbi/FirstScene.ccbi
+SHA1-Digest: mb+aAxDV00oM0DMZf5mzOCYTx08=
+
+Name: assets/ccbi/HelpScene.ccbi
+SHA1-Digest: V9I/AFLeBIZPPz7gnZQte4qeR2E=
+
+Name: assets/ccbi/LobbyScene.ccbi
+SHA1-Digest: RB0EOvfavaPT/e0VYjtnn88EDLg=
+
+Name: assets/ccbi/SettingScene.ccbi
+SHA1-Digest: tIdRL7tbj8RcSVx5rJ9tM2CsfSk=
+
+Name: assets/ccbi/SingleBetScene.ccbi
+SHA1-Digest: 1uNJdvHanOjh1cjqYrw+W5FcVYo=
+
+Name: assets/horse/blue_red/blue_red.plist
+SHA1-Digest: iA/ch6Fzsi/Rm3KVdWZ1FlkVKc4=
+
+Name: assets/horse/blue_red/blue_red.png
+SHA1-Digest: UPU4TbwoEsWpuVhqlCQYRE83NDM=
+
+Name: assets/horse/green_red/green_red.plist
+SHA1-Digest: anI5puRODmjy0FaB/2wKhHOzHw0=
+
+Name: assets/horse/green_red/green_red.png
+SHA1-Digest: K8z+FdvlhisI+wBXwS+8ZZ6Jnaw=
+
+Name: assets/horse/purple_red/purple_red.plist
+SHA1-Digest: o/pA8ETxwIGYrrc0SUsZx2kTzxM=
+
+Name: assets/horse/purple_red/purple_red.png
+SHA1-Digest: QKQ4W6QgICPVAnmJeCn0HS3kJn0=
+
+Name: assets/horse/red_blue/red_blue.plist
+SHA1-Digest: OIVI2kthtyRcOmF46D59u8FCZSY=
+
+Name: assets/horse/red_blue/red_blue.png
+SHA1-Digest: OG4HFcQ2IGqtmS6mDHr9zu6D+uk=
+
+Name: assets/horse/white_blue/white_blue.plist
+SHA1-Digest: 2GE17Op4/2jke2OrJprBI8ce2xo=
+
+Name: assets/horse/white_blue/white_blue.png
+SHA1-Digest: YOOC5C7GRfcRU2uBqKrOTbD20K0=
+
+Name: assets/horse/yellow_blue/yellow_blue.plist
+SHA1-Digest: e8L5ZuJ3qXARqrl613jENRiPqF4=
+
+Name: assets/horse/yellow_blue/yellow_blue.png
+SHA1-Digest: EUopCoTlCh0VUfetHbiNJWMmTeg=
+
+Name: assets/login/loading.png
+SHA1-Digest: wqEY613MXPOVUJX8lxtiPGum3o0=
+
+Name: assets/mp3/background_music.mp3
+SHA1-Digest: VIUpEU55YzE+iMTblkc2OZlWKek=
+
+Name: assets/mp3/bet.mp3
+SHA1-Digest: n3QEoSe2KxBLw97bPO1bOU/PEi8=
+
+Name: assets/mp3/button.mp3
+SHA1-Digest: +qfOdm476i9Jz+3breIq1qJd390=
+
+Name: assets/mp3/race_bg.mp3
+SHA1-Digest: tyHXCQiZsWbs0XckeA+f4Ofi+dU=
+
+Name: assets/mp3/waitting.mp3
+SHA1-Digest: 5IgVipYLsokaRsmbhFahnM+Y5kY=
+
+Name: assets/mp3/win.mp3
+SHA1-Digest: VKeDecVnUuSK70RDAKwMIsI5h+s=
+
+Name: assets/race_strings.xml
+SHA1-Digest: brOPW5oWp4h8/eQNGlTbpR75UBw=
+
+Name: assets/track/door_frame.png
+SHA1-Digest: 29ghcptw/GOSSCN6S4p4ip+DeGo=
+
+Name: assets/track/door_open.png
+SHA1-Digest: m43FToGZgq1vtNwWn1w7NAPCfXA=
+
+Name: assets/track/end_point.png
+SHA1-Digest: X3UIt5NBzzEaYxpR5pXrU+YOWxY=
+
+Name: assets/track/track.tmx
+SHA1-Digest: Wh4RwfX3pTRxiuWOqX0YSD09P0E=
+
+Name: assets/track/track_background01.png
+SHA1-Digest: ocGL3885QBxVcmzi2tJy0PZ7VqM=
+
+Name: assets/track/track_background02.png
+SHA1-Digest: D5odCwAGH3XAX52NtaQdW1kdl6Q=
+
+Name: assets/track/track_foreground01.png
+SHA1-Digest: /5MC7FnR7KXbUdkem7tR4OP17SM=
+
+Name: assets/track/track_foreground02.png
+SHA1-Digest: 1eROdwQj8CB8bXtb6TmN1jVGgaw=
+
+Name: classes.dex
+SHA1-Digest: 1yj9u6+v8/aOLshSBukT8PA2RBY=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: NoMKXTqnPjRM7S7XxLNo/c4NRcQ=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: LYElLn19NimxdgWIoERU/I8xnB0=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: HfyGjOFhicJrkqeDSqcwPeOGQ1k=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: fCiwIIyguLCy2ugRteZmN6cItp0=
+
+Name: resources.arsc
+SHA1-Digest: /2Sd2xbQrIM2T6wKlxcf3EA9Dkk=
+

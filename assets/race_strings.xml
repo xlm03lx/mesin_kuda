@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<root>
+  <strings>
+    <key>account</key>
+    <value>account</value>
+  </strings>
+  <strings>
+    <key>password</key>
+    <value>password</value>
+  </strings>
+  <strings>
+    <key>login</key>
+    <value>login</value>
+  </strings>
+  <strings>
+    <key>regist</key>
+    <value>regist</value>
+  </strings>
+  <strings>
+    <key>modifydata</key>
+    <value>modifydata</value>
+  </strings>
+  <strings>
+    <key>nickname</key>
+    <value>nickname</value>
+  </strings>
+  <strings>
+    <key>phone</key>
+    <value>phone</value>
+  </strings>
+  <strings>
+    <key>save</key>
+    <value>save</value>
+  </strings>
+  <strings>
+    <key>startgame</key>
+    <value>startgame</value>
+  </strings>
+  <strings>
+    <key>must_fill1</key>
+    <value>must_fill1</value>
+  </strings>
+  <strings>
+    <key>must_fill2</key>
+    <value>must_fill2</value>
+  </strings>
+  <strings>
+    <key>guest</key>
+    <value>guest</value>
+  </strings>
+  <strings>
+    <key>wash_horse</key>
+    <value> ROOKIE </value>
+  </strings>
+  <strings>
+    <key>feed_horse</key>
+    <value> MASTER </value>
+  </strings>
+  <strings>
+    <key>small_racing_horse</key>
+    <value> EPIC </value>
+  </strings>
+  <strings>
+    <key>big_racing_horse</key>
+    <value> LEGENDARY </value>
+  </strings>
+  <strings>
+    <key>small_moneybags</key>
+    <value> KAKI JUDI</value>
+  </strings>
+  <strings>
+    <key>big_moneybags</key>
+    <value> MYTHICAL GLORY </value>
+  </strings>
+  <strings>
+    <key>magnate</key>
+    <value>magnate</value>
+  </strings>
+  <strings>
+    <key>tips1</key>
+    <value> 1.JUDI ADALAH HARAM !!!</value>
+  </strings>
+  <strings>
+    <key>tips2</key>
+    <value> 2.Dah menang terus CUCI !!!</value>
+  </strings>
+  <strings>
+    <key>tips3</key>
+    <value> 3.JANGAN TAMAK betting banyak</value>
+  </strings>
+  <strings>
+    <key>tips4</key>
+    <value> 4.MAIN bila stress dengan kerja</value>
+  </strings>
+  <strings>
+    <key>tips5</key>
+    <value> 5.Dah untung jgn lupa kawan2</value>
+  </strings>
+   <strings>
+    <key>start_tips</key>
+    <value>mimpi nombor apa ?</value>
+  </strings>
+    <strings>
+    <key>recharge_tips</key>
+    <value>ngankong kat kubur</value>
+  </strings>
+    <strings>
+    <key>eixt_tips</key>
+    <value>leklu , kalah ke? </value>
+  </strings>
+</root>
